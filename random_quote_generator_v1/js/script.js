@@ -37,7 +37,7 @@ const quotes = [
   {
     quote: "As he read, I fell in love the way you fall asleep: slowly, and then all at once. ",
     source: "John Green",
-    citation: "The Fault in our Stars", 
+    citation: "The Fault in our Stars",  
     year: 2012
   },
   {
